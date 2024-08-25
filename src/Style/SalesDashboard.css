@@ -1,0 +1,37 @@
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.container{
+    background: white;
+    width:300px;
+    margin:10px;
+}
+.percentage{
+    display:flex;
+    flex-direction: row;
+}
+.percentage-data{
+    background-color: #57c657;
+    border-radius: 25px;
+    padding:0px 15px;
+    margin-left:10px;
+    text-align: center;
+}
+.sales{
+    font-weight: 500;
+    font-size: 12px;
+    color: grey;
+    margin: 0;
+    font-family: sans-serif;
+}
+.heading{
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin:10px 0px;
+}
+.container-item{
+    margin:10px
+}

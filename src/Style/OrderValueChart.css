@@ -1,0 +1,48 @@
+.order-value-chart{
+    background: white;
+    margin-left:10px;
+    width:420px;
+    padding:10px;
+    
+}
+.heading{
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 16px;
+    margin:10px 0px;
+}
+.conatiner-item-order{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content:space-between
+}
+.percentage-data{
+    background-color: #57c657;
+    border-radius: 25px;
+    padding:0px 15px;
+    margin-left:10px;
+    text-align: center;
+}
+.total-data{
+    display:flex;
+    flex-direction: row;
+}
+.heading-data{
+    display:flex;
+    flex-direction: row;
+    margin-right: 10px;
+    align-items:center;
+}
+.data-item{
+    display:flex;
+    flex-direction: row;
+    margin-left:10px;
+    margin-bottom: 10px;
+}
+.title{
+    margin-left:10px;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size:13px;
+}
